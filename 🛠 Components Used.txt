@@ -1,0 +1,10 @@
+🛠 Components Used:
+#Arduino Uno or Nano
+
+#Eye Blink Sensor (IR-based or similar)
+
+#LED (optional, for feedback)
+
+#Buzzer or Serial Monitor for Morse code output
+
+#Resistors, jumper wires, breadboard
